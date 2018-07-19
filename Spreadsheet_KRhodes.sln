@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_KRhodes", "Spreadsheet_KRhodes\Spreadsheet_KRhodes.csproj", "{C53EFD36-2AA3-4876-B6DC-6A2FD0530995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheetEngine", "SpreadSheetEngine\SpreadSheetEngine.csproj", "{63BBE568-2560-4E7B-8536-6296153FCB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTreeConsole", "ExpTreeConsole\ExpTreeConsole.csproj", "{DAA0B5A4-EBC5-4A70-B43D-EBBC746E5AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53EFD36-2AA3-4876-B6DC-6A2FD0530995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53EFD36-2AA3-4876-B6DC-6A2FD0530995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53EFD36-2AA3-4876-B6DC-6A2FD0530995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53EFD36-2AA3-4876-B6DC-6A2FD0530995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BBE568-2560-4E7B-8536-6296153FCB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BBE568-2560-4E7B-8536-6296153FCB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BBE568-2560-4E7B-8536-6296153FCB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BBE568-2560-4E7B-8536-6296153FCB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA0B5A4-EBC5-4A70-B43D-EBBC746E5AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA0B5A4-EBC5-4A70-B43D-EBBC746E5AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA0B5A4-EBC5-4A70-B43D-EBBC746E5AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA0B5A4-EBC5-4A70-B43D-EBBC746E5AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
